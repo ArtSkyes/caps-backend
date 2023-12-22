@@ -32,7 +32,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ArtSkyes/capstone-backend.git
+   git clone https://github.com/ArtSkyes/caps-backend.git
 
 2.Import the project into Eclipse.
 
